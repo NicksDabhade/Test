@@ -1,0 +1,25 @@
+
+body{
+   overflow-y: scroll;
+}
+img{
+    size: 45px;
+    width: 50px;
+}
+h1{
+    color:rgb(214,41,118)
+}
+input ::placeholder{
+    font-weight: lighter;
+    color:#ffff;
+}
+body{
+    background-color: violet;
+}
+input ::placeholder{
+    font-style: normal;
+}
+
+
+
+
